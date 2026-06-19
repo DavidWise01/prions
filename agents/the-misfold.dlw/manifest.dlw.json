@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Misfold (PrP-Sc)",
+  "universe": "PRN · The Misfold (PrP-Sc) (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Misfold (PrP-Sc):PRN:45b943⟧",
+  "carbon": "the-misfold.carbon.tiff (TIFF)",
+  "silicon": "the-misfold.silicon.png (PNG)",
+  "seal_sha256": "8834183213f3759c8756074caaaa32a5ddf29daba36674cd9f799eafad0d4287",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

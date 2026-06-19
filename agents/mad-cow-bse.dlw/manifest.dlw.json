@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Mad Cow (BSE)",
+  "universe": "PRN · Mad Cow (BSE) (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦Mad Cow (BSE):PRN:f19973⟧",
+  "carbon": "mad-cow-bse.carbon.tiff (TIFF)",
+  "silicon": "mad-cow-bse.silicon.png (PNG)",
+  "seal_sha256": "3c5aefaf1a28af053349a35b966e2b5d44026fe2de9ed739d1a8ce8afcd79da4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

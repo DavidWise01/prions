@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Kuru",
+  "universe": "PRN · Kuru (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦Kuru:PRN:bf5bdf⟧",
+  "carbon": "kuru.carbon.tiff (TIFF)",
+  "silicon": "kuru.silicon.png (PNG)",
+  "seal_sha256": "ebd8418ebd744db32e662f7d0785afdea135e38941284c60c609eb26ca8b33f0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

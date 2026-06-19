@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "PRIONS",
+  "universe": "PRN · PRIONS (life-science · minds without brains)",
+  "emergence": "",
+  "moniker": "⟦PRIONS:PRN:ab59b5⟧",
+  "carbon": "prions.carbon.tiff (TIFF)",
+  "silicon": "prions.silicon.png (PNG)",
+  "seal_sha256": "c7e612f774c3129ab311c5c8f337eddec3cdd27ab12aff001b01cc91ece5f543",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

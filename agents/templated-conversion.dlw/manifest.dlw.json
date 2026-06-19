@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Templated Conversion",
+  "universe": "PRN · Templated Conversion (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Templated Conversion:PRN:d7fe0f⟧",
+  "carbon": "templated-conversion.carbon.tiff (TIFF)",
+  "silicon": "templated-conversion.silicon.png (PNG)",
+  "seal_sha256": "d4d07bed2ecd8ee0e0e0104dc2d8dd26afe8ce6ba5f9e53327679711a3232f05",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Inheritance Without DNA",
+  "universe": "PRN · Inheritance Without DNA (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Inheritance Without DNA:PRN:659e72⟧",
+  "carbon": "inheritance-without-dna.carbon.tiff (TIFF)",
+  "silicon": "inheritance-without-dna.silicon.png (PNG)",
+  "seal_sha256": "9a8d103c614a415db5ac760d63a73305cb790ef4714d1d5b7396b7adabcb6060",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

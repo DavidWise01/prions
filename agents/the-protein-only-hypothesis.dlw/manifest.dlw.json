@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Protein-Only Hypothesis",
+  "universe": "PRN · The Protein-Only Hypothesis (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Protein-Only Hypothesis:PRN:f470d2⟧",
+  "carbon": "the-protein-only-hypothesis.carbon.tiff (TIFF)",
+  "silicon": "the-protein-only-hypothesis.silicon.png (PNG)",
+  "seal_sha256": "3ecc771dfb99d29bbfe5a71a60746c4f3321e8fb8671a45993078d7555abfa29",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

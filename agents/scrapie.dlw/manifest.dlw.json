@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Scrapie",
+  "universe": "PRN · Scrapie (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦Scrapie:PRN:733bc2⟧",
+  "carbon": "scrapie.carbon.tiff (TIFF)",
+  "silicon": "scrapie.silicon.png (PNG)",
+  "seal_sha256": "94ac7e822ddcc8ef30a427f32292a3fbf27be6128e5cf66aecaef1143b1c857d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

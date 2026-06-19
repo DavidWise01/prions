@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Prion Protein (PrP)",
+  "universe": "PRN · The Prion Protein (PrP) (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Prion Protein (PrP):PRN:efd52f⟧",
+  "carbon": "the-prion-protein.carbon.tiff (TIFF)",
+  "silicon": "the-prion-protein.silicon.png (PNG)",
+  "seal_sha256": "b8f54bdb662b7d4728aca6d828ea423fcc4b40d1199100d34670f95cbf5ed70f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

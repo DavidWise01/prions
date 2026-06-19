@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "the-prion-protein",
+    "name": "The Prion Protein (PrP)",
+    "epithet": "the molecule in two minds · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Prion Protein (PrP):PRN:efd52f⟧"
+  },
+  {
+    "slug": "the-misfold",
+    "name": "The Misfold (PrP-Sc)",
+    "epithet": "the rogue shape · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Misfold (PrP-Sc):PRN:45b943⟧"
+  },
+  {
+    "slug": "templated-conversion",
+    "name": "Templated Conversion",
+    "epithet": "the copying trick · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Templated Conversion:PRN:d7fe0f⟧"
+  },
+  {
+    "slug": "the-protein-only-hypothesis",
+    "name": "The Protein-Only Hypothesis",
+    "epithet": "the heresy, vindicated · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Protein-Only Hypothesis:PRN:f470d2⟧"
+  },
+  {
+    "slug": "scrapie",
+    "name": "Scrapie",
+    "epithet": "the first, in sheep · natural",
+    "emergence": "natural",
+    "moniker": "⟦Scrapie:PRN:733bc2⟧"
+  },
+  {
+    "slug": "kuru",
+    "name": "Kuru",
+    "epithet": "the human one · natural",
+    "emergence": "natural",
+    "moniker": "⟦Kuru:PRN:bf5bdf⟧"
+  },
+  {
+    "slug": "mad-cow-bse",
+    "name": "Mad Cow (BSE)",
+    "epithet": "the one that crossed to us · natural",
+    "emergence": "natural",
+    "moniker": "⟦Mad Cow (BSE):PRN:f19973⟧"
+  },
+  {
+    "slug": "yeast-prions",
+    "name": "Yeast Prions",
+    "epithet": "the useful side · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Yeast Prions:PRN:3e724f⟧"
+  },
+  {
+    "slug": "prion-like-spread",
+    "name": "Prion-Like Spread",
+    "epithet": "the open frontier · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Prion-Like Spread:PRN:bbe306⟧"
+  },
+  {
+    "slug": "inheritance-without-dna",
+    "name": "Inheritance Without DNA",
+    "epithet": "the thesis · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Inheritance Without DNA:PRN:659e72⟧"
+  },
+  {
+    "slug": "carleton-gajdusek",
+    "name": "Carleton Gajdusek",
+    "epithet": "kuru, 1923–2008 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Carleton Gajdusek:PRN:4ea82e⟧"
+  },
+  {
+    "slug": "tikvah-alper",
+    "name": "Tikvah Alper",
+    "epithet": "no nucleic acid, 1909–1995 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Tikvah Alper:PRN:c8f15a⟧"
+  }
+]

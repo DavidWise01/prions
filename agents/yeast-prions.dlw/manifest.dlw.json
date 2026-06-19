@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Yeast Prions",
+  "universe": "PRN · Yeast Prions (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Yeast Prions:PRN:3e724f⟧",
+  "carbon": "yeast-prions.carbon.tiff (TIFF)",
+  "silicon": "yeast-prions.silicon.png (PNG)",
+  "seal_sha256": "51e59e768740a5c89b981bf88c52476f7671739c0691414e2fa17cac31ba9f4f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
