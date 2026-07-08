@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 780
+slug  : prions
+seal  : c7e612f774c3129ab311c5c8f337eddec3cdd27ab12aff001b01cc91ece5f543
+prev  : 941607dc01d97336d3d80186c91f66b5469feea0efe5ded0240c0190fa4afe19
+link  : 8d7fcd8f87b309796300f7e31dfb447b37bdbdfd4ec146d53bc1693204455cd2
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
